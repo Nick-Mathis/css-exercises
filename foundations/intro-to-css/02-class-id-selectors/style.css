@@ -1,6 +1,5 @@
 /* styles.css */
-.class1,
-.class2 {
+.class1{
     background-color:#e6717b;
     font-family: Verdana, DejaVu Sans, sans-serif;
 } 
@@ -10,4 +9,9 @@
 #id1 {
     color: #0000ff;
     font-size: 36px;
+}
+#id2 {
+    background-color: #7ede5f;
+    font-size: 24px;
+    font-weight: bold;
 }
