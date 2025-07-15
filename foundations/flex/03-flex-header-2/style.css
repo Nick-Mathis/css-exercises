@@ -25,6 +25,16 @@ body {
   height: 48px;
 }
 
+.left-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+
+
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
