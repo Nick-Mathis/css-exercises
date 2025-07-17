@@ -17,8 +17,14 @@ img {
 
 .container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 52px;
+}
+
+.plant {
+  max-width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
