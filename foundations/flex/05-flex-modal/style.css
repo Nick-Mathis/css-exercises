@@ -44,9 +44,14 @@ body {
   font-size: large;
   font-weight: bold;
   justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
 }
 
-
+.text {
+  display: flex;
+  margin-bottom: 15px;
+}
 .close-button {
   display: flex;
   justify-self: end;
